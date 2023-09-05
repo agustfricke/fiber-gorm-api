@@ -9,6 +9,7 @@
 ```bash
 git clone https://github.com/agustfricke/fiber-crud-api
 cd fiber-crud-api
+mv .env.example .env
 docker run --name some-postgres -e POSTGRES_USER=agust -e 
 POSTGRES_PASSWORD=agust -e POSTGRES_DB=agust -p 5432:5432 -d postgres
 ./bin/air main.go
