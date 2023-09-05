@@ -16,4 +16,4 @@ POSTGRES_PASSWORD=agust -e POSTGRES_DB=agust -p 5432:5432 -d postgres
 ```
 ## Dale una estrella ⭐
 
-![Fiber-crud-api](https://github.com/agustfricke/fiber-crud-api/assets/110266171/759c96a0-1152-4a64-9cb0-20badcda7a1a)
+![Fiber-rest-api](https://github.com/agustfricke/fiber-crud-api/assets/110266171/10f83ec6-119b-427f-b55c-1d8fcd681483)
